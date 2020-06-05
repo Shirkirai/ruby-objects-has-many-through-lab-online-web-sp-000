@@ -10,7 +10,5 @@ class Patient
   end
 
 
-d
-
 
 end
