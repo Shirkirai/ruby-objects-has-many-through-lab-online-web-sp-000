@@ -17,6 +17,8 @@ class Genre
     @@all
   end
 
+  
+
 
 
 
