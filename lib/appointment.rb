@@ -15,6 +15,8 @@ class Appointment
     @@all
   end
 
+  
+
 
 
 
