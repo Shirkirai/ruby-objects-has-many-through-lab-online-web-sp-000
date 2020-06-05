@@ -13,7 +13,7 @@ class Appointment
 
 
 
-d
+
 
 
 end
